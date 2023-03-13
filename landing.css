@@ -5,6 +5,7 @@
 
 body{
    background-color : #282626;  
+   min-width: 300px;
 }
 
 header{
